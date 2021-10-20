@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DHMobileCodersDesafio02</string>
+    <string name="loginScreenTitle">Digital House</string>
+    <string name="AppBarTitle">Tela de Login</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintName">Name</string>
+    <string name="item_text_description">Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaqueipsa, quae ab illo inventore veritatis.</string>
+    <string name="button_login">LOG IN</string>
+    <string name="button_register">REGISTER</string>
+    <string name="app_bar_title">Novo Usuário</string>
+</resources>
