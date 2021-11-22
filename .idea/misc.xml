@@ -5,8 +5,13 @@
       <map>
         <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/drawable/custon_login_button.xml" value="0.35625" />
         <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/drawable/custon_register_button.xml" value="0.35625" />
-        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/activity_login.xml" value="0.2921195652173913" />
-        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/activity_register.xml" value="0.2921195652173913" />
+        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/activity_detalhe.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/activity_restaurante.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/item_prato.xml" value="0.2630208333333333" />
+        <entry key="..\:/Users/jonatas.cabral/AndroidStudioProjects/ExercicioLogin/app/src/main/res/layout/item_restaurante.xml" value="0.1" />
       </map>
     </option>
   </component>
