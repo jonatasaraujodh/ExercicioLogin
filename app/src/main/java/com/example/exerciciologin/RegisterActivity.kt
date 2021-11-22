@@ -39,7 +39,6 @@ class RegisterActivity : AppCompatActivity() {
             }
 
         }
-
     }
 
     private fun verificaEmail(email: EditText): Boolean{
